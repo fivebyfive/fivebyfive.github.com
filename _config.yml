@@ -1,0 +1,24 @@
+# standard jekyll configuration
+
+permalink: date
+pygments: true
+exclude: ['Rakefile', 'README.md', 'config.rb']
+markdown: rdiscount
+
+# configuration required for some pages
+
+domain: blog.copilot.aero
+title: The Copilot Blog
+author: The Copilot.aero Team
+email: copilot.team@copilot.aero
+
+# configuration for ehancements, uncomment to enable
+
+# feedburner:
+#   id: feedburnerid
+
+# google_analytics:
+#   account: UA-XXXXX-X
+
+# disqus:
+#   id: disqusid
